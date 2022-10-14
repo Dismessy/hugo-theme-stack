@@ -1,6 +1,6 @@
 ---
-title: 个人介绍
-description: 这是我的个人介绍
+title: Resume
+description: This is my personal introduction.
 date: '2022-09-27'
 aliases:
   - about-us
@@ -22,7 +22,7 @@ menu:
 
 
 
-> 您好，我是霍梓盈，我来自黑龙江，就读于澳门科技大学，目前是工商管理专业的一名学生。
+> Hello, I'm Huo Ziying. I come from Heilongjiang and study in Macao University of Science and Technology. I am currently a student majoring in business administration.
 
 
 

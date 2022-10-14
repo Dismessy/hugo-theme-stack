@@ -1,15 +1,15 @@
 +++
-author = "Hugo Authors"
-title = "Emoji Support"
-date = "2019-03-05"
+author = "Huo ziying"
+title = "Contact"
+date = "2022-10-14"
 description = "Guide to emoji usage in Hugo"
 categories = [
-    "Test"
+    "contact"
 ]
 tags = [
-    "emoji",
+    "contact",
 ]
-image = "the-creative-exchange-d2zvqp3fpro-unsplash.jpg"
+image = "222.jpg"
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways. 
