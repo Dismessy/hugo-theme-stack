@@ -1,5 +1,5 @@
 +++
-author = "Huo ziying"
+author = "Hydra"
 title = "If You Want To Know Me A Lot"
 date = "2022-10-14"
 description = "Here are some of my mbti tests and hobbies. After reading them, you will know more about me."
