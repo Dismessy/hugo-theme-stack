@@ -30,7 +30,7 @@ menu:
 
 
 
-### 学术研究与项目经历
+### Academic research and project experience
 
 
 
