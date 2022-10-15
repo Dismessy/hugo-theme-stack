@@ -18,11 +18,11 @@ menu:
 
 
 
-### 总体
+### HELLO
 
 
 
-> Hello, I'm Huo Ziying. I come from Heilongjiang and study in Macao University of Science and Technology. I am currently a student majoring in business administration.
+> I'm Huo Ziying. I come from Heilongjiang and study in Macao University of Science and Technology. I am currently a student majoring in business administration.
 
 
 
